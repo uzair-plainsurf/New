@@ -9,4 +9,4 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 > Formating sytnax is to make it as readable
 > as possible. the idea is that a
 > Markdown-formated document should be 
-> or Formating instruction.
+
