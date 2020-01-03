@@ -7,6 +7,7 @@ Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered H
 ## New Features
 > The overriding Goal for Markdown's
 > Formating sytnax is to make it as readable
-> as possible. the idea is that a
 
 
+> The overriding Goal for Markdown's
+> The overriding Goal for Markdown's
